@@ -689,7 +689,7 @@ HTML_TEMPLATE = '''
                     <span class="dark-icon">🌙</span>
                 </button>
             </div>
-            <h1>SHERM Matching FlashCard App</h1>
+            <h1>SHRM Matching FlashCard App</h1>
             <p class="love-note">Made with ❤️ for Melissa, my brilliant star</p>
         </header>
 
